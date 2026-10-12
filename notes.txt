@@ -1,0 +1,11 @@
+Project: AI Agent Demo
+
+API rate limit: 120 requests per minute.
+
+Deployment command:
+docker compose up -d
+
+Production deployment requires approval before execution.
+
+Default API timeout:
+30 seconds.
